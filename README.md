@@ -20,7 +20,7 @@ Website ini merupakan aplikasi berbasis web yang terdiri dari dua fitur utama, y
 ## Struktur File
 
 - `index.html`: Halaman utama dari website yang berisi fitur Pomodoro Timer dan To-Do List.
-- `belajar.css`: File CSS untuk styling halaman (pastikan untuk menambahkan file ini untuk tampilan yang sesuai).
+- `belajar.css`: File CSS untuk styling halaman 
 - `alarm.mpeg`: Suara alarm yang diputar saat timer selesai.
 
 ## Penggunaan
