@@ -1,7 +1,7 @@
 # pomodoro-timer-to-do-list
 # Website Pendukung Belajar
 
-Website ini merupakan aplikasi berbasis web yang terdiri dari dua fitur utama, yaitu Pomodoro Timer dan To-Do List, yang bertujuan untuk membantu pengguna dalam mengelola waktu belajar dan tugas.
+Website ini merupakan aplikasi berbasis web yang terdiri dari dua fitur utama, yaitu Pomodoro Timer, To-Do List dan motivasi singkat, yang bertujuan untuk membantu pengguna dalam mengelola waktu belajar dan tugas.
 
 ## Fitur Utama
 
@@ -17,6 +17,9 @@ Website ini merupakan aplikasi berbasis web yang terdiri dari dua fitur utama, y
    - Menandai tugas sebagai selesai dengan mengklik tugas.
    - Menyimpan data tugas secara lokal di browser menggunakan `localStorage`, sehingga tugas yang telah ditambahkan tetap ada meskipun halaman di-refresh.
 
+3. Motivasi
+   - Menampilkan motivasi acak setiap kali timer dihentikan, untuk menjaga semangat belajar.
+  
 ## Struktur File
 
 - `index.html`: Halaman utama dari website yang berisi fitur Pomodoro Timer dan To-Do List.
